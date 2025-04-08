@@ -1,0 +1,9 @@
+flask
+flask-cors
+sentence-transformers
+torch
+python-Levenshtein
+fuzzywuzzy
+textblob
+scipy
+pyspellchecker
