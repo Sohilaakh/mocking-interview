@@ -2,8 +2,8 @@ flask
 flask-cors
 sentence-transformers
 torch
-python-Levenshtein
+Levenshtein
 fuzzywuzzy
 textblob
 scipy
-pyspellchecker
+gunicorn
